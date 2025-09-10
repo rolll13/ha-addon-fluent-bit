@@ -23,7 +23,7 @@ Below is an example configuration file for Fluent Bit. This configuration will r
 
 ## Installation
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fablyler%2Fha-addon-fluent-bit)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Frolll13%2Fha-addon-fluent-bit)
 
 Use the button above to add this repository to your Home Assistant instance. Once added, you can install the `Fluent Bit` add-on.
 
