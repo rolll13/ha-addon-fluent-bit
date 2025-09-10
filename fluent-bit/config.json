@@ -11,7 +11,7 @@
   "init": false,
   "startup": "services",
   "map": [
-    "addon_config"
+    "addon_config","config"
   ],
   "journald": true,
   "webui": true,
