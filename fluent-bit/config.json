@@ -11,10 +11,9 @@
   "init": false,
   "startup": "services",
   "map": [
-    "addon_config","config"
+    "config"
   ],
   "journald": true,
-  "webui": true,
   "terminal": true,
   "options": {
     "config_file": "fluent_bit.conf"
